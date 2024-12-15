@@ -92,6 +92,28 @@ Contributions are welcome! If you find a bug or want to add new features, feel f
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
+
+## Citation
+If you use this repository in your research or find it helpful, please cite the following paper:
+
+```bibtex
+@article{YUAN2023170739,
+title = {Physics-informed Neural Network method for the Modified Nonlinear Schrödinger equation},
+journal = {Optik},
+volume = {279},
+pages = {170739},
+year = {2023},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2023.170739},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402623002358},
+author = {Wen-Xuan Yuan and Rui Guo and Yi-Ning Gao},
+keywords = {The modified nonlinear Schrödinger equation, The PINN method, Neural network}
+}
+```
+
+
+
 ---
 
 **Contact**
