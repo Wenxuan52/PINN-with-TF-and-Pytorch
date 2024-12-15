@@ -32,7 +32,7 @@ This repository implements the PINN framework to solve PDEs using both TensorFlo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/PINN-with-TF-and-Pytorch.git
+git clone https://github.com/Wenxuan52/PINN-with-TF-and-Pytorch.git
 cd PINN-with-TF-and-Pytorch
 ```
 
