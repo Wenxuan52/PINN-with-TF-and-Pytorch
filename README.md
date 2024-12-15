@@ -80,7 +80,7 @@ This repository includes examples for solving the following PDEs:
 
 ## Results
 
-The solutions obtained using PINNs closely match the analytical or numerical solutions of the PDEs. Below is a sample comparison for the 1D Burgers' equation:
+The solutions obtained using PINNs closely match the analytical or numerical solutions of the PDEs. Below is a sample comparison for the Nonlinear Schrödinger Equation:
 
 ![Nonlinear Schrödinger Equation Results](Tensorflow/Soliton.png)
 
